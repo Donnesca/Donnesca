@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Donnesca
 - 👀 I’m interested in all things TECH but with that I am still a girlies, girl.
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on front-end development but still considering my options.
+- 🌱 I’m currently learning software development, and really focused on becoming the best version of myself in the Coding enviroment.
+- 💞️ I’m looking to collaborate on Cybersecurity but still considering my options.
 - 📫 How to reach me,
         Cellphone: 0607222599
         email: Georgelinevansyfer@gmail.com
